@@ -1,0 +1,2 @@
+MeanEng : 79.333 MeanMath: 77.583 MeanKor 86.250
+MaxEng 84.000 MaxMat 93.000 MaxKor 100.000
